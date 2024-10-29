@@ -1,0 +1,5 @@
+		.data 0x10018050
+bd: 	.byte 0x10, 0x20, 0x66, 0x35
+hd:		.half 128
+		.align 2
+wd:		.word 192, 0x66558433
